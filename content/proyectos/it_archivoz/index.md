@@ -1,5 +1,5 @@
 ---
-title: Premio Inaria
+title: Intercambios Transorgánicos, Archivoz - Reconocimiento de Inaria
 date: 2025-11-10
 layout: article
 showWordCount: false
