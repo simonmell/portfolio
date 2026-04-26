@@ -14,10 +14,10 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
+[params.author]
   name = "Simón Mellino"
   email = "mellino.simon@gmail.com"
-  image = "img/Perfil_oval.png"
+  image = "https://avatars.githubusercontent.com/u/240106624?v=4"
   imageQuality = 96
   headline = "Estudiante de Ing. en Sonido"
   bio = "A little bit about you"
