@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Sobre Mí"
 layout: "card"
 ---
 hi

@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Mi Perfil"
-  pageRef = "perfil"
+  name = "Novedades"
+  pageRef = "novedades"
   weight = 10
 
 #[[main]]
@@ -20,8 +20,8 @@
 #  weight = 20
 
 [[main]]
-  name = "About Me"
-  pageRef = "about"
+  name = "Sobre Mí"
+  pageRef = "sobremi"
   weight = 20
 
 #[[main]]
