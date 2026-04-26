@@ -17,7 +17,7 @@ title = "Blowfish"
 [params.author]
   name = "Simón Mellino"
   email = "mellino.simon@gmail.com"
-#  image = "https://avatars.githubusercontent.com/u/240106624?v=4"
+  image = "static/img/Perfil_oval.png"
   imageQuality = 96
   headline = "Estudiante de Ing. en Sonido"
   bio = "A little bit about you"
