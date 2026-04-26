@@ -188,6 +188,4 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
-
-[CV]
-  link = "https://drive.google.com/file/d/1DLrFnZTy3HBIK8gbuiQj7YjeSH2bK7Gb/view?usp=sharing"
+  
