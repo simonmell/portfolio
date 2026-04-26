@@ -10,10 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Novedades"
-#  pageRef = "novedades"
-#  weight = 10
+[[main]]
+  name = "Curriculum Vitae"
+  pageRef = "cv"
+  weight = 10
 
 #[[main]]
 #  name = "Parent"
