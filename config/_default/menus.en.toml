@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Mi Perfil"
+  pageRef = "perfil"
   weight = 10
 
 #[[main]]
@@ -41,10 +41,10 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[main]]
+  name = "Mis Proyectos"
+  pageRef = "proyectos"
+  weight = 20
 
 #[[main]]
 #  name = "Tags"
