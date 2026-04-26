@@ -1,5 +1,6 @@
 ---
 title: Premio grass
+date: 2025-11-13
 ---
 
 Todos los ganadores: https://www.grasacoustics.com/gras-innovation-award/winners-2025
