@@ -15,9 +15,9 @@ Actualmente, me encuentro como becario en el proyecto [Archivoz](https://interca
 A continuación dejo un link a mi CV:
 
 {{< button href="https://drive.google.com/file/d/1DLrFnZTy3HBIK8gbuiQj7YjeSH2bK7Gb/view?usp=sharing" target="_self" >}}
-CV de Simón Mellino
+Mi CV
 {{< /button >}}
 
 # Video presentación
 
-{{< youtube fIeb2sRbI8Y >}}
+{{< youtube r3MQnSnV0cI >}}
